@@ -145,7 +145,7 @@ CALCULATE(
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](HyDashboard1.png)
 
-![Dashboard Screenshot](HyDashboard2.png)
+![Dashboard Screenshot](HyDasdboard2.png)
 
 ### Visualizations:
 
