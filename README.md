@@ -148,13 +148,9 @@ CALCULATE(
 * Follow-Up Required by Severity Level
 * Treatment Type Distribution
 
-### Interactive Slicers:
+### Interactive Slicer:
 
-* Date
-* Gender
 * Severity Level
-* Location
-* Treatment Type
 
 ---
 
