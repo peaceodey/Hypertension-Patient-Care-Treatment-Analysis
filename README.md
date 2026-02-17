@@ -98,7 +98,7 @@ This structure enables dynamic slicing by:
 * Treatment Type
 
 
-##  Key DAX Measures
+##  Analysis & Measures (DAX)
 
 ``` DAX
 Total Visits = COUNT(Fact_Visits[Visit ID])
