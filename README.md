@@ -142,6 +142,8 @@ CALCULATE(
 ---
 
 ##  Dashboard Features
+## 📷 Dashboard Preview
+![Dashboard Screenshot](insert-image-link-here)
 
 ### Visualizations:
 
