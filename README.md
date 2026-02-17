@@ -1,6 +1,4 @@
 # Hypertension-Patient-Care-Treatment-Analysis
-End-to-end Power BI project leveraging star schema data modeling and advanced DAX to analyze hypertension treatment outcomes. Delivers actionable insights on cost drivers, patient risk segments, and healthcare resource optimization.
-
 
 **Power BI Case Study – Tender Heart Specialist Hospital**
 
@@ -37,7 +35,6 @@ The Cardiology department required improved visibility into:
 
 The objective was to identify cost drivers, high-risk segments, and opportunities to optimize treatment effectiveness and operational planning.
 
----
 
 ##  Data Source
 
@@ -58,7 +55,6 @@ The objective was to identify cost drivers, high-risk segments, and opportunitie
 * Treatment Cost
 * Visit Outcome (Completed / Follow-Up Required)
 
----
 
 ##  Data Transformation & Cleaning
 
@@ -71,7 +67,6 @@ Data preparation in Power BI included:
 * Handling missing or inconsistent values
 * Creating calculated columns and DAX measures
 
----
 
 ##  Data Modeling (Star Schema – Power BI)
 
@@ -101,11 +96,10 @@ This structure enables dynamic slicing by:
 * Location
 * Treatment Type
 
----
 
 ##  Key DAX Measures
 
-```DAX
+``` DAX
 Total Visits = COUNT(Fact_Visits[Visit ID])
 
 Total Patients = DISTINCTCOUNT(Dim_Patients[Patient ID])
@@ -128,7 +122,6 @@ CALCULATE(
 )
 ```
 
----
 
 ##  KPI Summary
 
@@ -139,9 +132,7 @@ CALCULATE(
 * **Follow-Up Required Rate:** 48%
 * **Average Treatment Cost:** 26K
 
----
 
-##  Dashboard Features
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](HyDashboard1.png)
 
