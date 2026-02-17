@@ -8,9 +8,10 @@
 This project analyzes 12 months of hypertension patient visit data to evaluate treatment outcomes, cost drivers, follow-up patterns, and visit trends. Using Power BI, I built a star schema data model and an interactive dashboard to support data-driven healthcare planning, resource allocation, and improved patient care management.
 
 
-##  Project Overview
+## Introduction
 
-Tender Heart Specialist Hospital is a healthcare provider operating in the clinical care industry.
+Tender Heart Specialist Hospital is a healthcare provider operating in the hospital and clinical care industry.
+
 
 This project examines cardiology department data from **January–December 2014** to understand:
 
@@ -20,7 +21,7 @@ This project examines cardiology department data from **January–December 2014*
 * Follow-up requirements
 * High-risk patient segments
 
-The analysis was conducted in **Power BI** using data modeling, DAX measures, and interactive visualizations.
+The analysis was conducted in **Power BI** using data modeling, DAX measures, and interactive visualizations to support data-driven healthcare planning and resource allocation.
 
 
 
