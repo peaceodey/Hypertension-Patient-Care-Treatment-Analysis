@@ -24,7 +24,6 @@ This project examines cardiology department data from **January–December 2014*
 The analysis was conducted in **Power BI** using data modeling, DAX measures, and interactive visualizations to support data-driven healthcare planning and resource allocation.
 
 
-
 ##  Problem Statement
 
 The Cardiology department required improved visibility into:
