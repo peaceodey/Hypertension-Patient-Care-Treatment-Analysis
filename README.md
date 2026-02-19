@@ -1,6 +1,6 @@
 # Hypertension-Patient-Care-Treatment-Analysis
 
-**Power BI Case Study – Racham Hospital**
+**Power BI Case Study – Racham Specialist Hospital**
 
 
 ##  Project Summary
