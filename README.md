@@ -1,6 +1,6 @@
 # Hypertension-Patient-Care-Treatment-Analysis
 
-**Power BI Case Study – Tender Heart Specialist Hospital**
+**Power BI Case Study – Racham Hospital**
 
 
 ##  Project Summary
@@ -10,7 +10,7 @@ This project analyzes 12 months of hypertension patient visit data to evaluate t
 
 ## Introduction
 
-Tender Heart Specialist Hospital is a healthcare provider operating in the hospital and clinical care industry.
+Racham Specialist Hospital is a healthcare provider operating in the hospital and clinical care industry.
 
 
 This project examines cardiology department data from **January–December 2014** to understand:
@@ -39,7 +39,7 @@ The objective was to identify cost drivers, high-risk segments, and opportunitie
 
 ##  Data Source
 
-* **Dataset Type:** Simulated hospital cardiology dataset
+* **Dataset Type:** Racham hospital cardiology dataset
 * **Time Period:** January – December 2014
 * **Records:** 3,000 patient visits
 * **Unique Patients:** 499
