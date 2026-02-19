@@ -156,7 +156,7 @@ CALCULATE(
 
 ##  Key Insights
 
-### 1️ Patient Visit Trends
+###  Patient Visit Trends
 
 * Highest visits in **August (288)** and **March (274)**
 * Lowest volume in **September (206)**
